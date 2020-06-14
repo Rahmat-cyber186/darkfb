@@ -1,9 +1,11 @@
 # darkfb
 Script yang di gunakan untuk crack akun Facebook secara massal.
 
+pkg install python2
+
 pkg install git -y
 
-pkg install python2
+git clone https://github.com/Rahmat-cyber186/darkfb
 
 Untuk pip nya nanti akan terinstall otomatis setelah menjalankan script.
 
