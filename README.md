@@ -10,4 +10,4 @@ Untuk pip nya nanti akan terinstall otomatis setelah menjalankan script.
 
 Jika mengalami eror silahkan hubungi saya melalui WhatsApp
 
-No WhatsApp saya:+6285754629509
+Nomor WhatsApp saya:+6285754629509
