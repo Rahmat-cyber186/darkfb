@@ -1,6 +1,10 @@
 # darkfb
 Script yang di gunakan untuk crack akun Facebook secara massal.
 
+pkg update-y
+
+pkg upgrade-y
+
 pkg instal python2
 
 pip2 instal mekanik
