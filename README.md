@@ -17,7 +17,7 @@ git clone https://github.com/Rahmat-cyber186/darkfb
 
 cd darkfb
 
-python2 dark_fb.py
+python2 dark_fb.pyc
 
 
 Jika mengalami eror silahkan hubungi saya melalui WhatsApp
